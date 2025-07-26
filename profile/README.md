@@ -75,4 +75,4 @@ Krita stands out for its balance of powerful features and accessibility. Unlike 
 
 ## 🔍 Tags
 
-krita free download, krita macos, krita for mac, open-source painting, krita download free, mac art program, krita install mac, krita downlaod, krita download free, install krita free mac, krita install macos, krita free mac, free download krita
+krita free download, krita macos, krita for mac, open-source painting, krita download free, mac art program, krita install mac, krita download, krita download free, install krita free mac, krita install macos, krita free mac, free download krita
